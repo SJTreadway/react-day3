@@ -1,1 +1,6 @@
-# react-day3
+##React Router
+###Basic Set Up
+- Router
+- Routes
+- Link
+- Params
