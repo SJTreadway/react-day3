@@ -4,7 +4,8 @@ import { Router, Route, browserHistory } from 'react-router';
 
 import RouteOne from "./RouteOne.js";
 import RouteTwo from "./RouteTwo.js";
-var App = React.createClass({
+
+const App = React.createClass({
 	render() {
 		return (
 			<Router>
